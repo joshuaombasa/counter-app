@@ -7,3 +7,4 @@ NBA COUNTER APP THAT UPDATES SCORES (three point plays, free throws, jumpers/pos
 Built using HTML, CSS, JAVASCRIPT.
 
 This JavaScript code sets up event listeners for three buttons, increase, decrease, and reset.
+When the "increase" button is clicked, the count is incremented by 1.

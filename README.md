@@ -8,6 +8,10 @@ Click the "Increase" button to increment the count value by 1. Click the "Decrea
 Prerequisites
 No prerequisites are required to run the app. However, a web browser is required to view the app.
 
+Built With
+JavaScript
+HTML
+CSS
 
 
 NBA COUNTER APP THAT UPDATES SCORES (three point plays, free throws, jumpers/postups).

@@ -13,3 +13,4 @@ When the "reset" button is clicked, the count is reset back to 0.
 
 The value of the count is displayed on the page by updating the text content of the element with an ID of "value".
 This JavaScript code is a simple implementation of a counter that increments, decrements, and resets the count value. It uses the DOM API to manipulate the HTML elements on the page.
+The code starts by declaring the variables for the count, and the three buttons used to increment, decrement, and reset the count. The document.querySelector method is used to select the HTML elements using their CSS selectors.

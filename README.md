@@ -1,5 +1,11 @@
 Counter App
 A simple JavaScript-based counter app that increments, decrements, and resets the count value.
+Getting Started
+To use the app, simply open the index.html file in a web browser. You should see three buttons: "Increase", "Decrease", and "Reset".
+
+Click the "Increase" button to increment the count value by 1. Click the "Decrease" button to decrement the count value by 1. Click the "Reset" button to reset the count value to 0.
+
+
 
 
 NBA COUNTER APP THAT UPDATES SCORES (three point plays, free throws, jumpers/postups).

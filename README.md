@@ -5,6 +5,8 @@ To use the app, simply open the index.html file in a web browser. You should see
 
 Click the "Increase" button to increment the count value by 1. Click the "Decrease" button to decrement the count value by 1. Click the "Reset" button to reset the count value to 0.
 
+Prerequisites
+No prerequisites are required to run the app. However, a web browser is required to view the app.
 
 
 

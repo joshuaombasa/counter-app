@@ -8,3 +8,4 @@ Built using HTML, CSS, JAVASCRIPT.
 
 This JavaScript code sets up event listeners for three buttons, increase, decrease, and reset.
 When the "increase" button is clicked, the count is incremented by 1.
+When the "decrease" button is clicked, the count is decremented by 1. 

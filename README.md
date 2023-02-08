@@ -1,4 +1,5 @@
-NBA COUNTER APP.
+Counter App
+A simple JavaScript-based counter app that increments, decrements, and resets the count value.
 
 
 NBA COUNTER APP THAT UPDATES SCORES (three point plays, free throws, jumpers/postups).
